@@ -17,7 +17,7 @@ Coding sequence alignment for exon 26 of SCN4A (Fig. 2 in Gendreau et al. (2021)
 ### 2. Evolutionary rate and selection with PAML
 
 Alignment files used for PAML analyses:
-SCN1A (link)
+SCN1A (link) [SCN1A](https://github.com/kerrygendreau/Newt-TTX-Resistance/SCN1A_CDS_alignment.fasta)
 SCN2A (link)
 SCN3A (link)
 SCN4A (link)
