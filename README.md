@@ -17,12 +17,12 @@ Coding sequence alignment for exon 26 of SCN4A (Fig. 2 in Gendreau et al. (2021)
 ### 2. Evolutionary rate and selection with PAML
 
 Alignment files used for PAML analyses:
-* *[SCN1A](SCN1A_CDS_alignment.fasta)
-* *[SCN2A](SCN2A_CDS_alignment.fasta)
-* *[SCN3A](SCN3A_CDS_alignment.fasta)
-* *[SCN4A](SCN4A_CDS_alignment.fasta)
-* *[SCN5A](SCN5A_CDS_alignment.fasta)
-* *[SCN8A](SCN8A_CDS_alignment.fasta)
+* [SCN1A](SCN1A_CDS_alignment.fasta)
+* [SCN2A](SCN2A_CDS_alignment.fasta)
+* [SCN3A](SCN3A_CDS_alignment.fasta)
+* [SCN4A](SCN4A_CDS_alignment.fasta)
+* [SCN5A](SCN5A_CDS_alignment.fasta)
+* [SCN8A](SCN8A_CDS_alignment.fasta)
 
 
 ### 3. Gene conversion
