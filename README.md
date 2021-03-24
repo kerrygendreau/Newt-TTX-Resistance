@@ -2,6 +2,12 @@
 Investigation of the evolution of TTX autoresistance in newts and related salamanders.
 
 
+
+[Taricha torosa](link)
+
+
+
+
 This repository includes datasets used in the analyses conducted for Gendreau et al. (2021) (link to paper). See manuscript for methods.
 
 
