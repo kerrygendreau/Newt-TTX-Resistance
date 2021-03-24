@@ -29,6 +29,6 @@ Alignment files used for PAML analyses:
 
 [Alignment file](SCNA_amphibian_CDS_alignment_geneconv.fasta) and [configuration file](Geneconv_config_SCN1A-2A-3A.cfg) used to search for gene conversion in SCN1A, SCN2A, and SCN3A. Output files: [SCNA_amphibian_CDS_alignment_PAL2NAL.frags](SCNA_amphibian_CDS_alignment_PAL2NAL.frags) and [SCNA_amphibian_CDS_alignment_PAL2NAL.sum](SCNA_amphibian_CDS_alignment_PAL2NAL.sum).
 
-[Alignment file](SCN4A_exon_26_alignment_geneconv.fasta) and configuration file (link) used to search for gene conversion in SCN4A exons 26a and 26b. Output files: 
+[Alignment file](SCN4A_exon_26_alignment_geneconv.fasta) and [configuration file](Geneconv_config_SCN4A.cfg) used to search for gene conversion in SCN4A exons 26a and 26b. Output files: 
 
 
