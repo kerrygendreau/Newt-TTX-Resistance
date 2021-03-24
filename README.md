@@ -27,7 +27,7 @@ Alignment files used for PAML analyses:
 
 ### 3. Gene conversion
 
-Alignment file (link) and configuration file (link) used to search for gene conversion in SCN1A, SCN2A, and SCN3A.
+[Alignment file] (SCNA_) and [configuration file](Geneconv_config_SCN1A-2A-3A.cfg) used to search for gene conversion in SCN1A, SCN2A, and SCN3A.
 
 Alignment file (link) and configuration file (link) used to search for gene conversion in SCN4A exons 26a and 26b.
 
