@@ -3,7 +3,7 @@ Investigation of the evolution of TTX autoresistance in newts and related salama
 
 
 
-[Taricha torosa](Taricha_torosa.jpeg)
+![Taricha torosa](Taricha_torosa.jpeg)
 
 
 
