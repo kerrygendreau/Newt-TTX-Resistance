@@ -1,5 +1,7 @@
-# Newt-TTX-Resistance
-Investigation of the evolution of TTX autoresistance in newts and related salamanders.
+# Gene conversion facilitates the adaptive evolution of self-resistance in highly toxic newts
+
+
+Investigation of the evolution of tetrodotoxin autoresistance in newts and related salamanders.
 
 
 
