@@ -11,7 +11,7 @@ This repository includes datasets used in the analyses conducted for Gendreau et
 
 Multiple sequence alignments of all SCNA paralogs found in amphibians and outgroup Danio rerio can be downloaded here: [All SCNAs amino acid alignment](SCNA_protein_alignment_RAxML_Tree.fasta) (Fig. 1 in Gendreau et al. (2021)) and here: [All SCNAs full coding sequence alignment](SCNA_CDS_alignment_RAxML_Tree.fasta) (Fig. S2 in Gendreau et al. (2021)).
 
-Alignment of coding sequences for only exon 26 from all SCNAs (Fig. S3 in Gendreau et al. (2021)) can be found here: [All SCNAs exon 26 alignment](link).
+Alignment of coding sequences for only exon 26 from all SCNAs (Fig. S3 in Gendreau et al. (2021)) can be found here: [All SCNAs exon 26 alignment](Exon_26_all_SCNAs.fasta).
 
 Coding sequence alignment for exon 26 of only SCN4A (Fig. 2 in Gendreau et al. (2021)) can be downloaded here: [SCN4A exon 26 CDS alignment](link)
 
