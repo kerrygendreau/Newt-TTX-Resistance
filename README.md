@@ -13,7 +13,7 @@ Multiple sequence alignments of all SCNA paralogs found in amphibians and outgro
 
 Alignment of coding sequences for only exon 26 from all SCNAs (Fig. S3 in Gendreau et al. (2021)) can be found here: [All SCNAs exon 26 alignment](Exon_26_all_SCNAs.fasta).
 
-Coding sequence alignment for exon 26 of only SCN4A (Fig. 2 in Gendreau et al. (2021)) can be downloaded here: [SCN4A exon 26 CDS alignment](link)
+Coding sequence alignment for exon 26 of only SCN4A (Fig. 2 in Gendreau et al. (2021)) can be downloaded here: [SCN4A exon 26 CDS alignment](SCN4A_exon26_RAxML_Tree.fasta)
 
 
 ### 2. Evolutionary rate and selection with PAML
