@@ -24,7 +24,7 @@ Alignment of coding sequences for only exon 26 from all *SCNA* parlogs (**Fig. S
 Coding sequence alignment for exon 26 of only *SCN4A* (**Fig. 2** in Gendreau et al. (2021)) can be downloaded here: [*SCN4A* exon 26 CDS alignment](SCN4A_exon26_RAxML_Tree.fasta)
 
 
-### 2. Evolutionary rate and selection with PAML
+### 2. Evolutionary rates and selection with PAML
 
 Alignment files used for PAML analyses:
 * [*SCN1A*](SCN1A_CDS_alignment.fasta)
