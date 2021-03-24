@@ -3,14 +3,14 @@
 
 Investigation of the evolution of tetrodotoxin autoresistance in newts and related salamanders.
 
+This repository includes datasets used in the analyses conducted for Gendreau et al. (2021) (link to paper). See manuscript for methods.
+
 
 
 ![Taricha torosa](Taricha_torosa.jpeg)
 
 
 
-
-This repository includes datasets used in the analyses conducted for Gendreau et al. (2021) (link to paper). See manuscript for methods.
 
 
 
