@@ -1,0 +1,158 @@
+# Output of GENECONV for sequence file SCN4ADIVa.fasta
+# GENECONV version 1.81
+# Command line:  GENECONV SCN4ADIVa.fasta SCN4ADIV_2.cfg /g1
+# Contents of parameter configuration file:
+# SCN4ADIV_2.cfg: -Startseed=123
+#   -group  Ambystoma  SCN4A_Ambystoma_mexicanum
+#   SCN4A_alternative_Amybstoma_mexicanum
+#   -group  Pleurodeles  SCN4A_Pleurodeles_waltl
+#   SCN4A_alternative_Pleurodeles_waltl
+#   -group  Plethodon  SCN4A_Plethodon_cinereus
+#   SCN4A_alternative_Plethodon_cinereus
+#   -group  Notophthalmus  SCN4A_Notophthalmus_viridescens
+#   SCN4A_alternative_Notophthalmus_viridescens
+#   -group  Tgranulosa  SCN4A_Taricha_granulosa
+#   SCN4A_alternative_Taricha_granulosa
+#   -group  Ttorosa  SCN4A_Taricha_torosa
+#   SCN4A_alternative_Taricha_torosa
+#   -group  Bolitoglossa  SCN4A_Bolitoglossa_vallecula_GHME01165342.1
+#   SCN4A_alternative_Bolitoglossa_vallecula_GHME01165341.1
+#   -group  Salamandra  SCN4A_Salamandra_salamandra
+#   SCN4A_alternative_Salamandra_salamandra
+#   -group  Tylototriton
+#   SCN4A_Tylototriton_wenxianensis_GESS01000732.1_GESS01024789.1
+#   SCN4A_alternative_Tylototriton_wenxianensis_GESS01029581.1
+#
+# SCN4ADIVa.fasta: 19 sequences.
+#
+# Options and features: Using 18 DNA sequences, 1084 aligned bases,
+#   381 polymorphisms, FASTA format, gscale=1 for mismatches,
+#   9 groups defined, maxSimPairPval=0.05, maxSimGlobPval=0.05,
+#   no maxKAPairPval limits, no maxKAGlobPval limits,
+#   simPvals based on 10,000 permutations,
+#   global P-values based on BLAST-like global scores,
+#   fragment limits: minlength=1, minnpolys=2, minscore=2,
+#   no pairwise fragment lists, at most one overlapping fragment,
+#   starting seed=123, contiguous sites with indels are one polymorphism,
+#   6 indel blocks with up to 259 sites each,
+#   no match (replacement) char in source file.
+# Groups:
+#   Ambystoma (2): SCN4A_Ambystoma_mexicanum
+#     SCN4A_alternative_Amybstoma_mexicanum
+#   Pleurodeles (2): SCN4A_Pleurodeles_waltl
+#     SCN4A_alternative_Pleurodeles_waltl
+#   Plethodon (2): SCN4A_Plethodon_cinereus
+#     SCN4A_alternative_Plethodon_cinereus
+#   Notophthalmus (2): SCN4A_Notophthalmus_viridescens
+#     SCN4A_alternative_Notophthalmus_viridescens
+#   Tgranulosa (2): SCN4A_Taricha_granulosa
+#     SCN4A_alternative_Taricha_granulosa
+#   Ttorosa (2): SCN4A_Taricha_torosa  SCN4A_alternative_Taricha_torosa
+#   Bolitoglossa (2): SCN4A_Bolitoglossa_vallecula_GHME01165342.1
+#     SCN4A_alternative_Bolitoglossa_vallecula_GHME01165341.1
+#   Salamandra (2): SCN4A_Salamandra_salamandra
+#     SCN4A_alternative_Salamandra_salamandra
+#   Tylototriton (2): 
+#     SCN4A_Tylototriton_wenxianensis_GESS01000732.1_GESS01024789.1
+#     SCN4A_alternative_Tylototriton_wenxianensis_GESS01029581.1
+# Sequences not in group list: SCN4A_Cryptobranchus_alleganiensis
+# Looking at within-group fragments only (9 groups)
+#
+# Mismatch penalty: 1 * npolys / num_ppen
+#   where `num_ppen' is the number of ``potential penalties'':
+#     sequence differences for inner fragments,
+#     local monomorphisms for outer fragments.
+# Nucleotide codes in data:  T(5511)  C(3610)  A(5494)  G(4030)
+#   Other(867)  CG/TCAG ratio: 40.98%
+# Non-nucleotide characters in data:  -(2DH)(n=867)
+# 286 sites with missing data or unrecognized characters.
+# (These characters are treated as indels for the
+#    purpose of creating indel blocks.)
+# No sites with all gap or unrecognized characters.
+# 375 polymorphic and 423 monomorphic sites with no indels.
+# No single polymorphic sites with indels.
+# 6 indel blocks with more than one site
+#   (each block is treated as a single polymorphism).
+# 381 polymorphisms to be permuted.
+# 
+# The starting random number seed is  123.
+# Simulated P-values are based on 10,000 permutations.
+# Maximum BLAST-like scores (18 sequences, 9 groups):
+# Inner      Max         Sim     S.D.s above     S.D. of
+#  frags    Score      P-value    sim. mean        sims
+# SCORE     5.795      0.0107         3.22       1.1630
+# OuterSeq
+#  frags    5.970      0.0075         3.36       1.1823
+#
+# Global lists: 2 I and 1 O significant fragments
+# Pairwise lists: No fragments listed
+#  where I means inner pair, O is outer seq, A is outer pair, and
+#  G means outer group (fragments).
+# Global P-values are based on BLAST-like global scores.
+#
+# Fragment offsets and lengths are in nucleotides.
+# Note: A polymorphism can be at a run of sites with indels,
+#   which here have up to 259 sites.
+# Bases other than `TCAGU' are treated as indels
+#   for the purpose of generating polymorphisms.
+#
+#
+# Global inner fragments (381 polymorphisms, 1084 aligned bases):
+# (Inner fragments are runs of matching sites with penalties.)
+# (Sim and BC KA P-values are corrected for multiple comparisons.)
+# (Fragments are listed only if Sim P-value <= 0.05.)
+# See earlier in the file for the full restrictions on fragments.
+#
+# BC KA means Bonferroni-corrected KA (BLAST-like) Pvalues.
+# KA Pvalues are NOT corrected for multiple pairwise comparisons.
+# In the following table, BC Pvalues are KA Pvalues multiplied by 9.
+# Num Poly  is the number of polymorphic sites in the fragment.
+# Num Dif   is the number of mismatches within the fragment.
+# Tot Difs  is the total number of mismatches between two sequences.
+# MisM Pen  is the penalty per mismatch for these two sequences.
+#
+#   Seq                                                             Sim    BC KA    Aligned Offsets   Num  Num  Tot  MisM
+#   Names                                                          Pvalue  Pvalue   Begin  End   Len  Poly Dif  Difs Pen.
+GI  SCN4A_Plethodon_cinereus;SCN4A_alternative_Plethodon_cinereus  0.0107  0.02733   260    336   77    26   0  154    3
+GI  SCN4A_Taricha_torosa;SCN4A_alternative_Taricha_torosa          0.0243  0.06328   286    341   56    22   1  178    3
+#
+# 2 inner fragments listed.
+# 787 overlapping fragments discarded.
+#
+# ADDITIONAL PAIRWISE FRAGMENTS with BC Pairwise SimPval < 0.05
+#   OR LISTED GLOBAL FRAGMENTS with significantly better BC SimPval
+# Here BC SimPval is the Pairwise Sim Pvalue multiplied by 9.
+# (Up to three pairwise fragments considered per pair.)
+#
+#   Seq                                                            BC Sim  BC KA    Aligned Offsets   Num  Num  Tot  MisM
+#   Names                                                          Pvalue  Pvalue   Begin  End   Len  Poly Dif  Difs Pen.
+AI  SCN4A_Plethodon_cinereus;SCN4A_alternative_Plethodon_cinereus  0.0090  0.02733   260    336   77    26   0  154    3
+#
+# One inner fragment listed.
+#
+#
+# Global outer-sequence fragments (381 polymorphisms, 1084 aligned bases):
+# (Outer-sequence fragments are runs of sites that are unique in that group.)
+# (Sim and BC KA P-values are corrected for multiple comparisons.)
+# (Fragments are listed only if Sim P-value <= 0.05.)
+# See earlier in the file for the full restrictions on fragments.
+#
+# BC KA means Bonferroni-corrected KA (BLAST-like) Pvalues.
+# KA Pvalues are NOT corrected for multiple pairwise comparisons.
+# In the following table, BC Pvalues are KA Pvalues multiplied by 9.
+# Num Poly  is the number of polymorphic sites in the fragment.
+# Num Mat   is the number of nonunique sites within the fragment.
+# Tot Mats  is the total number of nonunique sites for that sequence.
+# MisM Pen  is the penalty per nonunique site for this sequence.
+#
+#   Seq                       Sim    BC KA    Aligned Offsets   Num  Num  Tot  MisM
+#   Name                     Pvalue  Pvalue   Begin  End   Len  Poly Mat  Mats Pen.
+GO  SCN4A_Pleurodeles_waltl  0.0075  0.02295  1036   1063   28    24   2  203    2
+#
+# One outer-sequence fragment listed.
+# 847 overlapping fragments discarded.
+#
+#
+# No pairwise fragment lists.
+# (See earlier in the file for the restrictions on fragments.)
+#
