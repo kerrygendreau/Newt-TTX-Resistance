@@ -1,0 +1,172 @@
+# Output of GENECONV for sequence file SCNA_amphibian_CDS_alignment_PAL2NAL.fasta
+# GENECONV version 1.81
+# Command line:  GENECONV SCNA_amphibian_CDS_alignment_PAL2NAL.fasta
+#   amphibian_group_7.cfg /g1
+# Contents of parameter configuration file:
+# amphibian_group_7.cfg: -Startseed=123
+#   -group  Ambystoma  SCN1A_Ambystoma_mexicanum
+#   SCN2A_Ambystoma_mexicanum  SCN3A_Ambystoma_mexicanum
+#   -group  Pleurodeles  SCN1A_Pleurodeles_waltl  SCN2A_Pleurodeles_waltl
+#   SCN3A_Pleurodeles_waltl
+#   -group  Notophthalmus  SCN1A_Notophthalmus_viridescens
+#   SCN2A_Notophthalmus_viridescens  SCN3A_Notophthalmus_viridescens
+#   -group  Tgranulosa  SCN1A_Taricha_granulosa  SCN2A_Taricha_granulosa
+#   SCN3A_Taricha_granulosa
+#   -group  Ttorosa  SCN1A_Taricha_torosa  SCN2A_Taricha_torosa
+#   SCN3A_Taricha_torosa
+#   -group  Crypto  SCN1A_Cryptobranchus_alleganiensis
+#   SCN2A_Cryptobranchus_alleganiensis  SCN3A_Cryptobranchus_alleganiensis
+#   -group  Plethodon  SCN1A_Plethodon_cinereus  SCN2A_Plethodon_cinereus
+#   SCN3A_Plethodon_cinereus
+#
+# SCNA_amphibian_CDS_alignment_PAL2NAL.fasta: 42 sequences.
+#
+# Options and features: Using 21 DNA sequences, 6345 aligned bases,
+#   1826 polymorphisms, FASTA format, gscale=1 for mismatches,
+#   7 groups defined, maxSimPairPval=0.05, maxSimGlobPval=0.05,
+#   no maxKAPairPval limits, no maxKAGlobPval limits,
+#   simPvals based on 10,000 permutations,
+#   global P-values based on BLAST-like global scores,
+#   fragment limits: minlength=1, minnpolys=2, minscore=2,
+#   no pairwise fragment lists, at most one overlapping fragment,
+#   starting seed=123, contiguous sites with indels are one polymorphism,
+#   25 indel blocks with up to 396 sites each,
+#   no match (replacement) char in source file.
+# Groups:
+#   Ambystoma (3): SCN1A_Ambystoma_mexicanum  SCN2A_Ambystoma_mexicanum
+#     SCN3A_Ambystoma_mexicanum
+#   Pleurodeles (3): SCN1A_Pleurodeles_waltl  SCN2A_Pleurodeles_waltl
+#     SCN3A_Pleurodeles_waltl
+#   Notophthalmus (3): SCN1A_Notophthalmus_viridescens
+#     SCN2A_Notophthalmus_viridescens  SCN3A_Notophthalmus_viridescens
+#   Tgranulosa (3): SCN1A_Taricha_granulosa  SCN2A_Taricha_granulosa
+#     SCN3A_Taricha_granulosa
+#   Ttorosa (3): SCN1A_Taricha_torosa  SCN2A_Taricha_torosa
+#     SCN3A_Taricha_torosa
+#   Crypto (3): SCN1A_Cryptobranchus_alleganiensis
+#     SCN2A_Cryptobranchus_alleganiensis
+#     SCN3A_Cryptobranchus_alleganiensis
+#   Plethodon (3): SCN1A_Plethodon_cinereus  SCN2A_Plethodon_cinereus
+#     SCN3A_Plethodon_cinereus
+# Sequences not in group list: SCN8A_Ambystoma_mexicanum
+#   SCN8A_Notophthalmus_viridescens  SCN8A_Taricha_granulosa
+#   SCN8A_Taricha_torosa  SCN8A_Pleurodeles_waltl
+#   SCN8A_Cryptobranchus_alleganiensis  SCN8A_Plethodon_cinereus
+#   SCN4A_Ambystoma_mexicanum  SCN4A_Pleurodeles_waltl
+#   SCN4A_Notophthalmus_viridescens  SCN4A_Taricha_granulosa
+#   SCN4A_Taricha_torosa  SCN4A_Cryptobranchus_alleganiensis
+#   SCN4A_Plethodon_cinereus  SCN5A_Ambystoma_mexicanum
+#   SCN5A_Notophthalmus_viridescens  SCN5A_Taricha_granulosa
+#   SCN5A_Taricha_torosa  SCN5A_Pleurodeles_waltl
+#   SCN5A_Plethodon_cinereus  SCN5A_Cryptobranchus_alleganiensis
+# Looking at within-group fragments only (7 groups)
+#
+# Mismatch penalty: 1 * npolys / num_ppen
+#   where `num_ppen' is the number of ``potential penalties'':
+#     sequence differences for inner fragments,
+#     local monomorphisms for outer fragments.
+# Nucleotide codes in data:  T(33,912)  C(24,934)  A(36,354)  G(27,854)
+#   Other(10,191)  CG/TCAG ratio: 42.90%
+# Non-nucleotide characters in data:  -(2DH)(n=10,086)  N(4EH)(n=105)
+# 2347 sites with missing data or unrecognized characters.
+# (These characters are treated as indels for the
+#    purpose of creating indel blocks.)
+# 247 sites with all gap or unrecognized characters.
+# 1799 polymorphic and 2199 monomorphic sites with no indels.
+# 2 single polymorphic sites with indels.
+# 25 indel blocks with more than one site
+#   (each block is treated as a single polymorphism).
+# 1826 polymorphisms to be permuted.
+# 
+# The starting random number seed is  123.
+# Simulated P-values are based on 10,000 permutations.
+# Maximum BLAST-like scores (21 sequences, 7 groups):
+# Inner      Max         Sim     S.D.s above     S.D. of
+#  frags    Score      P-value    sim. mean        sims
+# SCORE    45.866      0.0000        34.51       1.2413
+# OuterSeq
+#  frags   14.968      0.0000         9.52       1.2840
+#
+# Global lists: 20 I and 5 O significant fragments
+# Pairwise lists: No fragments listed
+#  where I means inner pair, O is outer seq, A is outer pair, and
+#  G means outer group (fragments).
+# Global P-values are based on BLAST-like global scores.
+#
+# Fragment offsets and lengths are in nucleotides.
+# Note: A polymorphism can be at a run of sites with indels,
+#   which here have up to 396 sites.
+# Bases other than `TCAGU' are treated as indels
+#   for the purpose of generating polymorphisms.
+#
+#
+# Global inner fragments (1826 polymorphisms, 6345 aligned bases):
+# (Inner fragments are runs of matching sites with penalties.)
+# (Sim and BC KA P-values are corrected for multiple comparisons.)
+# (Fragments are listed only if Sim P-value <= 0.05.)
+# See earlier in the file for the full restrictions on fragments.
+#
+# BC KA means Bonferroni-corrected KA (BLAST-like) Pvalues.
+# KA Pvalues are NOT corrected for multiple pairwise comparisons.
+# In the following table, BC Pvalues are KA Pvalues multiplied by 21.
+# Num Poly  is the number of polymorphic sites in the fragment.
+# Num Dif   is the number of mismatches within the fragment.
+# Tot Difs  is the total number of mismatches between two sequences.
+# MisM Pen  is the penalty per mismatch for these two sequences.
+#
+#   Seq                                                                     Sim    BC KA    Aligned Offsets   Num  Num  Tot  MisM
+#   Names                                                                  Pvalue  Pvalue   Begin  End   Len  Poly Dif  Difs Pen.
+GI  SCN1A_Plethodon_cinereus;SCN2A_Plethodon_cinereus                      0.0000  0.00000  4231   4754  524   138   9  838    3
+GI  SCN2A_Ambystoma_mexicanum;SCN3A_Ambystoma_mexicanum                    0.0000  0.00000   619   1244  626    74   2  902    3
+GI  SCN1A_Cryptobranchus_alleganiensis;SCN2A_Cryptobranchus_alleganiensis  0.0003  0.00040  5428   5798  371   177  27  621    3
+GI  SCN1A_Plethodon_cinereus;SCN3A_Plethodon_cinereus                      0.0005  0.00094  1110   1685  576    88  13  786    3
+GI  SCN1A_Plethodon_cinereus;SCN3A_Plethodon_cinereus                      0.0005  0.00094  2566   2742  177    68   8  786    3
+GI  SCN1A_Plethodon_cinereus;SCN2A_Plethodon_cinereus                      0.0005  0.00128    31     94   64    31   0  838    3
+GI  SCN1A_Ambystoma_mexicanum;SCN2A_Ambystoma_mexicanum                    0.0008  0.00165  4003   4409  407   134  25  794    3
+GI  SCN1A_Cryptobranchus_alleganiensis;SCN2A_Cryptobranchus_alleganiensis  0.0011  0.00243  4157   4532  376   153  23  621    3
+GI  SCN1A_Notophthalmus_viridescens;SCN3A_Notophthalmus_viridescens        0.0033  0.00587  2008   2096   89    41   1  733    3
+GI  SCN1A_Notophthalmus_viridescens;SCN2A_Notophthalmus_viridescens        0.0067  0.01472  4136   4427  292   109  20  796    3
+GI  SCN1A_Ambystoma_mexicanum;SCN2A_Ambystoma_mexicanum                    0.0106  0.02472    31    123   93    48   5  794    3
+GI  SCN1A_Ambystoma_mexicanum;SCN3A_Ambystoma_mexicanum                    0.0117  0.02733   139    266  128    54   5  722    3
+GI  SCN1A_Taricha_granulosa;SCN3A_Taricha_granulosa                        0.0145  0.03500  1147   1251  105    41   2  725    3
+GI  SCN1A_Taricha_torosa;SCN3A_Taricha_torosa                              0.0145  0.03500  1147   1251  105    41   2  725    3
+GI  SCN1A_Ambystoma_mexicanum;SCN2A_Ambystoma_mexicanum                    0.0171  0.03882  4449   4532   84    35   2  794    3
+GI  SCN1A_Ambystoma_mexicanum;SCN3A_Ambystoma_mexicanum                    0.0175  0.03909  4136   4262  127    37   1  722    3
+GI  SCN2A_Cryptobranchus_alleganiensis;SCN3A_Cryptobranchus_alleganiensis  0.0180  0.04301  5269   5674  406   164  32  693    3
+GI  SCN2A_Plethodon_cinereus;SCN3A_Plethodon_cinereus                      0.0218  0.04919  2458   2540   83    29   2  897    3
+GI  SCN1A_Pleurodeles_waltl;SCN3A_Pleurodeles_waltl                        0.0303  0.06728  4942   4997   56    30   0  738    3
+GI  SCN1A_Plethodon_cinereus;SCN3A_Plethodon_cinereus                      0.0343  0.07706  5125   5258  134    46   5  786    3
+#
+# 20 inner fragments listed.
+# 16,602 overlapping fragments discarded.
+#
+#
+# Global outer-sequence fragments (1826 polymorphisms, 6345 aligned bases):
+# (Outer-sequence fragments are runs of sites that are unique in that group.)
+# (Sim and BC KA P-values are corrected for multiple comparisons.)
+# (Fragments are listed only if Sim P-value <= 0.05.)
+# See earlier in the file for the full restrictions on fragments.
+#
+# BC KA means Bonferroni-corrected KA (BLAST-like) Pvalues.
+# KA Pvalues are NOT corrected for multiple pairwise comparisons.
+# In the following table, BC Pvalues are KA Pvalues multiplied by 21.
+# Num Poly  is the number of polymorphic sites in the fragment.
+# Num Mat   is the number of nonunique sites within the fragment.
+# Tot Mats  is the total number of nonunique sites for that sequence.
+# MisM Pen  is the penalty per nonunique site for this sequence.
+#
+#   Seq                                  Sim    BC KA    Aligned Offsets   Num  Num  Tot  MisM
+#   Name                                Pvalue  Pvalue   Begin  End   Len  Poly Mat  Mats Pen.
+GO  SCN2A_Ambystoma_mexicanum           0.0000  0.00001  5728   6201  474    59  13 1260    2
+GO  SCN2A_Cryptobranchus_alleganiensis  0.0096  0.01774  2026   2042   17    10   0 1403    2
+GO  SCN3A_Plethodon_cinereus            0.0152  0.03473  4398   4412   15    14   1 1318    2
+GO  SCN3A_Cryptobranchus_alleganiensis  0.0395  0.08972  4435   4443    9     8   0 1462    2
+GO  SCN3A_Plethodon_cinereus            0.0482  0.11664  3793   3815   23    13   1 1318    2
+#
+# 5 outer-sequence fragments listed.
+# 1250 overlapping fragments discarded.
+#
+#
+# No pairwise fragment lists.
+# (See earlier in the file for the restrictions on fragments.)
+#

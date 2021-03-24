@@ -1,0 +1,159 @@
+LOG FILE for sequence file=SCNA_amphibian_CDS_alignment_PAL2NAL.fasta
+GENECONV version 1.81
+
+Command line:  GENECONV SCNA_amphibian_CDS_alignment_PAL2NAL.fasta
+  amphibian_group_7.cfg /g1
+Contents of parameter configuration file:
+amphibian_group_7.cfg: -Startseed=123
+  -group  Ambystoma  SCN1A_Ambystoma_mexicanum
+  SCN2A_Ambystoma_mexicanum  SCN3A_Ambystoma_mexicanum
+  -group  Pleurodeles  SCN1A_Pleurodeles_waltl  SCN2A_Pleurodeles_waltl
+  SCN3A_Pleurodeles_waltl
+  -group  Notophthalmus  SCN1A_Notophthalmus_viridescens
+  SCN2A_Notophthalmus_viridescens  SCN3A_Notophthalmus_viridescens
+  -group  Tgranulosa  SCN1A_Taricha_granulosa  SCN2A_Taricha_granulosa
+  SCN3A_Taricha_granulosa
+  -group  Ttorosa  SCN1A_Taricha_torosa  SCN2A_Taricha_torosa
+  SCN3A_Taricha_torosa
+  -group  Crypto  SCN1A_Cryptobranchus_alleganiensis
+  SCN2A_Cryptobranchus_alleganiensis  SCN3A_Cryptobranchus_alleganiensis
+  -group  Plethodon  SCN1A_Plethodon_cinereus  SCN2A_Plethodon_cinereus
+  SCN3A_Plethodon_cinereus
+
+FASTA format sequence file `SCNA_amphibian_CDS_alignment_PAL2NAL.fasta'
+Read `SCN1A_Ambystoma_mexicanum':  length=6345
+Read `SCN1A_Cryptobranchus_alleganiensis':  length=6345
+Read `SCN1A_Notophthalmus_viridescens':  length=6345
+Read `SCN1A_Taricha_granulosa':  length=6345
+Read `SCN1A_Taricha_torosa':  length=6345
+Read `SCN1A_Pleurodeles_waltl':  length=6345
+Read `SCN1A_Plethodon_cinereus':  length=6345
+Read `SCN3A_Ambystoma_mexicanum':  length=6345
+Read `SCN3A_Cryptobranchus_alleganiensis':  length=6345
+Read `SCN3A_Notophthalmus_viridescens':  length=6345
+Read `SCN3A_Taricha_granulosa':  length=6345
+Read `SCN3A_Taricha_torosa':  length=6345
+Read `SCN3A_Pleurodeles_waltl':  length=6345
+Read `SCN3A_Plethodon_cinereus':  length=6345
+Read `SCN2A_Ambystoma_mexicanum':  length=6345
+Read `SCN2A_Notophthalmus_viridescens':  length=6345
+Read `SCN2A_Taricha_granulosa':  length=6345
+Read `SCN2A_Taricha_torosa':  length=6345
+Read `SCN2A_Pleurodeles_waltl':  length=6345
+Read `SCN2A_Cryptobranchus_alleganiensis':  length=6345
+Read `SCN2A_Plethodon_cinereus':  length=6345
+Read `SCN8A_Ambystoma_mexicanum':  length=6345
+Read `SCN8A_Notophthalmus_viridescens':  length=6345
+Read `SCN8A_Taricha_granulosa':  length=6345
+Read `SCN8A_Taricha_torosa':  length=6345
+Read `SCN8A_Pleurodeles_waltl':  length=6345
+Read `SCN8A_Cryptobranchus_alleganiensis':  length=6345
+Read `SCN8A_Plethodon_cinereus':  length=6345
+Read `SCN4A_Ambystoma_mexicanum':  length=6345
+Read `SCN4A_Pleurodeles_waltl':  length=6345
+Read `SCN4A_Notophthalmus_viridescens':  length=6345
+Read `SCN4A_Taricha_granulosa':  length=6345
+Read `SCN4A_Taricha_torosa':  length=6345
+Read `SCN4A_Cryptobranchus_alleganiensis':  length=6345
+Read `SCN4A_Plethodon_cinereus':  length=6345
+Read `SCN5A_Ambystoma_mexicanum':  length=6345
+Read `SCN5A_Notophthalmus_viridescens':  length=6345
+Read `SCN5A_Taricha_granulosa':  length=6345
+Read `SCN5A_Taricha_torosa':  length=6345
+Read `SCN5A_Pleurodeles_waltl':  length=6345
+Read `SCN5A_Plethodon_cinereus':  length=6345
+Read `SCN5A_Cryptobranchus_alleganiensis':  length=6345
+6345 bases read.
+42 sequences   6345 bases.
+SKIPPING SEQUENCES: SCN8A_Ambystoma_mexicanum
+  SCN8A_Notophthalmus_viridescens  SCN8A_Taricha_granulosa
+  SCN8A_Taricha_torosa  SCN8A_Pleurodeles_waltl
+  SCN8A_Cryptobranchus_alleganiensis  SCN8A_Plethodon_cinereus
+  SCN4A_Ambystoma_mexicanum  SCN4A_Pleurodeles_waltl
+  SCN4A_Notophthalmus_viridescens  SCN4A_Taricha_granulosa
+  SCN4A_Taricha_torosa  SCN4A_Cryptobranchus_alleganiensis
+  SCN4A_Plethodon_cinereus  SCN5A_Ambystoma_mexicanum
+  SCN5A_Notophthalmus_viridescens  SCN5A_Taricha_granulosa
+  SCN5A_Taricha_torosa  SCN5A_Pleurodeles_waltl
+  SCN5A_Plethodon_cinereus  SCN5A_Cryptobranchus_alleganiensis
+
+Options and features: Using 21 DNA sequences, 6345 aligned bases,
+  1826 polymorphisms, FASTA format, gscale=1 for mismatches,
+  7 groups defined, maxSimPairPval=0.05, maxSimGlobPval=0.05,
+  no maxKAPairPval limits, no maxKAGlobPval limits,
+  simPvals based on 10,000 permutations,
+  global P-values based on BLAST-like global scores,
+  fragment limits: minlength=1, minnpolys=2, minscore=2,
+  no pairwise fragment lists, at most one overlapping fragment,
+  starting seed=123, contiguous sites with indels are one polymorphism,
+  25 indel blocks with up to 396 sites each,
+  no match (replacement) char in source file.
+Groups:
+  Ambystoma (3): SCN1A_Ambystoma_mexicanum  SCN2A_Ambystoma_mexicanum
+    SCN3A_Ambystoma_mexicanum
+  Pleurodeles (3): SCN1A_Pleurodeles_waltl  SCN2A_Pleurodeles_waltl
+    SCN3A_Pleurodeles_waltl
+  Notophthalmus (3): SCN1A_Notophthalmus_viridescens
+    SCN2A_Notophthalmus_viridescens  SCN3A_Notophthalmus_viridescens
+  Tgranulosa (3): SCN1A_Taricha_granulosa  SCN2A_Taricha_granulosa
+    SCN3A_Taricha_granulosa
+  Ttorosa (3): SCN1A_Taricha_torosa  SCN2A_Taricha_torosa
+    SCN3A_Taricha_torosa
+  Crypto (3): SCN1A_Cryptobranchus_alleganiensis
+    SCN2A_Cryptobranchus_alleganiensis
+    SCN3A_Cryptobranchus_alleganiensis
+  Plethodon (3): SCN1A_Plethodon_cinereus  SCN2A_Plethodon_cinereus
+    SCN3A_Plethodon_cinereus
+Sequences not in group list: SCN8A_Ambystoma_mexicanum
+  SCN8A_Notophthalmus_viridescens  SCN8A_Taricha_granulosa
+  SCN8A_Taricha_torosa  SCN8A_Pleurodeles_waltl
+  SCN8A_Cryptobranchus_alleganiensis  SCN8A_Plethodon_cinereus
+  SCN4A_Ambystoma_mexicanum  SCN4A_Pleurodeles_waltl
+  SCN4A_Notophthalmus_viridescens  SCN4A_Taricha_granulosa
+  SCN4A_Taricha_torosa  SCN4A_Cryptobranchus_alleganiensis
+  SCN4A_Plethodon_cinereus  SCN5A_Ambystoma_mexicanum
+  SCN5A_Notophthalmus_viridescens  SCN5A_Taricha_granulosa
+  SCN5A_Taricha_torosa  SCN5A_Pleurodeles_waltl
+  SCN5A_Plethodon_cinereus  SCN5A_Cryptobranchus_alleganiensis
+Looking at within-group fragments only (7 groups)
+
+Mismatch penalty: 1 * npolys / num_ppen
+  where `num_ppen' is the number of ``potential penalties'':
+    sequence differences for inner fragments,
+    local monomorphisms for outer fragments.
+Nucleotide codes in data:  T(33,912)  C(24,934)  A(36,354)  G(27,854)
+  Other(10,191)  CG/TCAG ratio: 42.90%
+Non-nucleotide characters in data:  -(2DH)(n=10,086)  N(4EH)(n=105)
+2347 sites with missing data or unrecognized characters.
+(These characters are treated as indels for the
+   purpose of creating indel blocks.)
+247 sites with all gap or unrecognized characters.
+1799 polymorphic and 2199 monomorphic sites with no indels.
+2 single polymorphic sites with indels.
+25 indel blocks with more than one site
+  (each block is treated as a single polymorphism).
+1826 polymorphisms to be permuted.
+No match (replacement) char in file
+
+Elapsed time for building arrays: 0.03 secs.
+
+Elapsed time for simulations: 9.78 secs.    Per iteration: 0.000978 secs.
+
+Written to SCNA_amphibian_CDS_alignment_PAL2NAL.frags:
+  20 I and 5 O significant global fragments.
+  No pairwise fragments.
+OUTPUT FILES WRITTEN:  `SCNA_amphibian_CDS_alignment_PAL2NAL.frags'
+LOG FILE:  `SCNA_amphibian_CDS_alignment_PAL2NAL.sum'
+
+The starting random number seed is  123.
+Simulated P-values are based on 10,000 permutations.
+Maximum BLAST-like scores (21 sequences, 7 groups):
+Inner      Max         Sim     S.D.s above     S.D. of
+ frags    Score      P-value    sim. mean        sims
+SCORE    45.866      0.0000        34.51       1.2413
+OuterSeq
+ frags   14.968      0.0000         9.52       1.2840
+
+Total memory allocated:  926,354 bytes.
+16 reallocations of total new size: 45,834 bytes.
+Maximum input sequence-file line width: 6345 bytes.
