@@ -9,9 +9,11 @@ This repository includes datasets used in the analyses conducted for Gendreau et
 
 ### 1. Phylogenetic trees
 
-Multiple sequence alignments of all SCNA paralogs found in amphibians and outgroup Danio rerio can be downloaded here: amino acid alignment (link) (Fig. 1 in Gendreau (2021)) and here: coding sequence alignment (link) (Fig. S1 in Gendreau (2021)).
+Multiple sequence alignments of all SCNA paralogs found in amphibians and outgroup Danio rerio can be downloaded here: [All SCNAs amino acid alignment](SCNA_protein_alignment_RAxML_Tree.fasta) (Fig. 1 in Gendreau et al. (2021)) and here: [All SCNAs full coding sequence alignment](SCNA_CDS_alignment_RAxML_Tree.fasta) (Fig. S2 in Gendreau et al. (2021)).
 
-Coding sequence alignment for exon 26 of SCN4A (Fig. 2 in Gendreau et al. (2021)) can be downloaded here: link.
+Alignment of coding sequences for only exon 26 from all SCNAs (Fig. S3 in Gendreau et al. (2021)) can be found here: [All SCNAs exon 26 alignment](link).
+
+Coding sequence alignment for exon 26 of only SCN4A (Fig. 2 in Gendreau et al. (2021)) can be downloaded here: [SCN4A exon 26 CDS alignment](link)
 
 
 ### 2. Evolutionary rate and selection with PAML
