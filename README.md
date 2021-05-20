@@ -25,6 +25,8 @@ Alignment of amino acid translations of exon 26 from all Nav paralogs can be fou
 
 Coding sequence alignment for exon 26 of only Nav1.4 (**Fig. 2** in Gendreau et al. (2021)) can be downloaded here: [*SCN4A* exon 26 CDS alignment](SCN4A_exon26_RAxML_Tree.fasta)
 
+Code for trimming species phylogeny and estimating ultrametric trees for visualization in **Figs. 3, 5, and S10 ** can be found here: [Code for trimming phylogeny](amphibian_time_tree.R)
+
 
 ### 2. Evolutionary rates and selection with PAML
 
