@@ -46,7 +46,7 @@ Alignment files used for PAML analyses:
 * [Alignment file](SCN4A_exon_26_alignment_geneconv.fasta) and [configuration file](Geneconv_config_SCN4A.cfg) used to search for gene conversion in Nav1.4 exons 26a and 26b. Output files: [SCN4ADIVa_2.frags](SCN4ADIVa_2.frags) and [SCN4ADIVa_2.sum](SCN4ADIVa_2.sum)
 
 
-### 3. Probe sequences
+### 4. Probe sequences
 
 * [Probe sequences used for targeted sequencing of amphibian Nav genes](Amphibian_SCN_probes.txt)
 
